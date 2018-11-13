@@ -57,8 +57,9 @@
 }
 
 .floatright {
-    float: right,
+    float: right;
 }
+
 .margin1 {
     margin: 1px;
 }
