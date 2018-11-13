@@ -1,22 +1,19 @@
 #wrapper{
-    font-family: Helvetica, "Helvetica Neue", SansSerif;
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+    width: 960px;
 }
 
 #heading li{
     display: inline;
 }
 
-#body{
-
-}
-
 #header1 {
-    font-size: 12pt;
+    font-size: 13pt;
 }
 
 
 #header2{
-    font-size: 12pt;
+    font-size: 11pt;
 }
 
 #logo {
@@ -24,27 +21,44 @@
 }
 
 #footer{
-
+    background-color: black;
+    text-align: center;
 }
 
-#fontcolorblue {
+.fontcolorblue {
     color: blue;
 }
 
-#fontcolorwhite {
+.fontcolorwhite {
     color: white;
-
-#fontsizesmall {
-    font-size: 12pt;
+}
+.fontsizesmall {
+    font-size: 9pt;
 }
 
-#backgroundimage {
-    background-image: url("../images/city.jpg");
+#body1 {
+    background-image: url("../images/4x4-adventure-automobile-1571783 (1).jpg");
     background-repeat: no-repeat;
     background-size: contain;
     height: 500px;
 }
 
-#backgroundwhite {
+.backgroundwhite {
+    background-color:white;
+}
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right,
+}
+.margin1 {
+    margin: 1px;
 }
