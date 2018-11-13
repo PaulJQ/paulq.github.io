@@ -1,0 +1,50 @@
+#wrapper{
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
+}
+
+#heading li{
+    display: inline;
+}
+
+#body{
+
+}
+
+#header1 {
+    font-size: 12pt;
+}
+
+
+#header2{
+    font-size: 12pt;
+}
+
+#logo {
+
+}
+
+#footer{
+
+}
+
+#fontcolorblue {
+    color: blue;
+}
+
+#fontcolorwhite {
+    color: white;
+
+#fontsizesmall {
+    font-size: 12pt;
+}
+
+#backgroundimage {
+    background-image: url("../images/city.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+}
+
+#backgroundwhite {
+
+}
