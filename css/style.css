@@ -1,6 +1,8 @@
 #wrapper{
     font-family: Helvetica, "Helvetica Neue", sans-serif;
     width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #heading li{
@@ -8,21 +10,21 @@
 }
 
 #header1 {
-    font-size: 13pt;
+    font-size: 14pt;
 }
-
 
 #header2{
-    font-size: 11pt;
-}
-
-#logo {
-
+    font-size: 10pt;
 }
 
 #footer{
+    height: 80px;
     background-color: black;
     text-align: center;
+}
+
+.fontbold {
+    font-weight: bolder;
 }
 
 .fontcolorblue {
@@ -32,6 +34,7 @@
 .fontcolorwhite {
     color: white;
 }
+
 .fontsizesmall {
     font-size: 9pt;
 }
@@ -45,11 +48,6 @@
 
 .backgroundwhite {
     background-color:white;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .floatleft {
