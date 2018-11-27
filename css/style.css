@@ -41,7 +41,11 @@ table {
     padding-top: 28%;
 }
 
-#header2{
+.center {
+    text-align: center;
+}
+
+#header2 {
     font-size: 16pt;
     padding-left:70%;
     padding-top: 5%;
@@ -62,17 +66,56 @@ table {
     height: 100%;
 }
 
+#boxleft2 {
+    height: 30px;
+    width: 30px;
+}
+
+#boxleft2 h3{
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 229px;
+    width: 321px;
+}
+
+#boxleft2 table{
+    padding: 15px 15px;
+
+}
+
+#boxright2 {
+    padding-left: 35%;
+
+}
+
+#boxright2 h2{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 30px;
+    font-weight:  bolder;
+}
+
+#boxright2 p{
+    padding-left: 10%;
+}
+#graph{
+    padding-bottom: 70px;
+}
+
+#graph {
+    padding-left: 25%;
+    padding-bottom: 45%;
+}
+
 #footer{
     height: 80px;
     background-color: black;
     padding-top: 30px;
-    text-align: center;
 }
 
 .fontbold {
     font-weight: bolder;
 }
-
 
 .fontcolorblue {
 color: blue;
@@ -86,17 +129,12 @@ color: white;
 font-size: 9pt;
 }
 
-
 .backgroundwhite {
     background-color:white;
 }
 
 .floatleft {
     float: left;
-}
-
-.floatright {
-    float: right;
 }
 
 .margin1 {
